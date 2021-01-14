@@ -1,2 +1,3 @@
 # CSC311
-Final project
+
+Code for assignments and final project
